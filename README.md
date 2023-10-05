@@ -1,4 +1,4 @@
-# CS50x : Introduxtion to Computer Science
+# CS50x : Introduction to Computer Science
 
 ### About the Course
 CS50 is a 12 week intensive online course on computer science and programming. It teaches fundamental concepts such as algorithms & data structures, abstraction, encapsulation, 
